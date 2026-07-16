@@ -21,6 +21,7 @@ markers:
   - {type: line-break, offset: 11, content: '', id: KR1e0076_WYG_001-1a03}
   - {type: indent, offset: 11, content: 　　, id: KR1e0076_WYG_001-bkkind5}
   - {type: punctuation, offset: 13, content: (, id: KR1e0076_WYG_001-bkkpn1}
+  - {type: voice, offset: 13, length: 43, name: note, id: n1}
   - {type: punctuation, offset: 30, content: /, id: KR1e0076_WYG_001-bkkpn2}
   - {type: punctuation, offset: 47, content: ), id: KR1e0076_WYG_001-bkkpn3}
   - {type: 'kr:newline', offset: 47, content: '
@@ -39,6 +40,7 @@ markers:
   - {type: punctuation, offset: 53, content: /, id: KR1e0076_WYG_001-bkkpn8}
   - {type: punctuation, offset: 56, content: ), id: KR1e0076_WYG_001-bkkpn9}
   - {type: punctuation, offset: 58, content: (, id: KR1e0076_WYG_001-bkkpn10}
+  - {type: voice, offset: 58, length: 91, name: note, id: n2}
   - {type: punctuation, offset: 73, content: /, id: KR1e0076_WYG_001-bkkpn11}
   - {type: punctuation, offset: 88, content: ), id: KR1e0076_WYG_001-bkkpn12}
   - {type: 'kr:newline', offset: 88, content: '
@@ -791,9 +793,11 @@ markers:
       ', id: KR1e0076_WYG_001-bkkkrnewl158}
   - {type: line-break, offset: 2689, content: '', id: KR1e0076_WYG_001-9b06}
   - {type: punctuation, offset: 2689, content: (, id: KR1e0076_WYG_001-bkkpn19}
+  - {type: voice, offset: 2689, length: 5, name: note, id: n3}
   - {type: punctuation, offset: 2692, content: /, id: KR1e0076_WYG_001-bkkpn20}
   - {type: punctuation, offset: 2694, content: ), id: KR1e0076_WYG_001-bkkpn21}
   - {type: punctuation, offset: 2696, content: (, id: KR1e0076_WYG_001-bkkpn22}
+  - {type: voice, offset: 2696, length: 57, name: note, id: n4}
   - {type: punctuation, offset: 2712, content: /, id: KR1e0076_WYG_001-bkkpn23}
   - {type: punctuation, offset: 2728, content: ), id: KR1e0076_WYG_001-bkkpn24}
   - {type: 'kr:newline', offset: 2728, content: '
@@ -1245,4 +1249,4 @@ markers:
 
       ', id: KR1e0076_WYG_001-bkkp1}
   back: []
-hash: sha256:0449d93c4ce647e0c7df6bdbc05bf26c862ebac1f886c1e9d9a265da7b7d93fa
+hash: sha256:52aa24e10456127f54b27dad0bcb23a82ff7b3b9a27e0f8aa00c0e02b1a57382
